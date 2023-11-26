@@ -41,8 +41,7 @@ const InlineStyle = () => {
          <input 
            
            type="text"placeholder='Email'
-           style={{ width: '200px', border:'#ccc',padding: '15px',borderRadius: '8px',
-           marginLeft:'50px',margin:"15px" ,marginRight:'50px'}}
+           style={{ width: '200px',border:'#ccc',padding:'15px',borderRadius:'8px',margin:'15px',marginLeft:'50px',marginRight:'50px'}}
            
 
          />
