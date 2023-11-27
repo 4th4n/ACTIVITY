@@ -50,9 +50,9 @@ const InlineStyle = () => {
            style={{ width:'200px',border:'#ccc',padding:'15px',borderRadius:'8px',margin:"15px",marginRight:'50px',marginLeft:'50px'}}
          />
           <label
-            style={{  fontSize: '15px',marginLeft:'65px',color: "blue",}}
+            style={{  fontSize: '15px',marginLeft:'60px',color: "blue",}}
           >
-            forgot your password?
+            forgot password?
           </label>
             <button
               style={{padding: '10px',backgroundColor: '#7DA2A9',color: 'black',border: 'none',borderRadius: '10px',

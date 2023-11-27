@@ -7,7 +7,7 @@ const header = {  fontSize: '30px',marginBottom: '10px',margin:'20px',fontStyle:
 
 const form = {fontSize: '15px',marginBottom: '50px',marginLeft:'20px',color: "blue",};
 
-const label = { fontSize: '15px',marginRight:'50px',color: "blue",};
+const label = { fontSize: '15px',marginRight:'100px',color: "blue",};
 
 const button = { padding: '10px',backgroundColor: '#7DA2A9',color: 'black',border: 'none',borderRadius: '10px',
 margin:'50px',fontSize: '20px',width:'230px',

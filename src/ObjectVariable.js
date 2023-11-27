@@ -28,7 +28,7 @@ const ObjectVariable = () => {
           type="password" placeholder='Password'
           style={styles.input}
         />
-        <label style={styles.label}>forgot your password?</label>
+        <label style={styles.label}>forgot password?</label>
         
 
         <button style={styles.button}>
@@ -71,7 +71,7 @@ const styles = {
 
   label: {
     fontSize: '15px',
-    marginRight:'50px',
+    marginRight:'100px',
     color: "blue",
    
     
